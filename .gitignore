@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+.git
+venv
+data.db
+_create_tables.sqlite3.py
+_security.py
